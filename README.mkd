@@ -1,0 +1,13 @@
+This repo contains solutions for several Project Euler problems.
+
+Some of the solutions are adapted from (or taken from):
+
+http://clojure-euler.wikispaces.com/
+
+http://clojure.roboloco.net/
+
+Thanks to the authors of those sites my knowledge of Clojure improved greatly!
+
+
+Multiple approaches to the same problem can be seen in the 'alt' etc files.
+
